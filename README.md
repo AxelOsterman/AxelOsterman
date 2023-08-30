@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AxelOsterman
+- 👀 I’m interested in All sorts of programming calculus and physics
+- 📫 Add me on Discord to chat @MerkDevs
